@@ -346,7 +346,7 @@ iframe {
   text-decoration: none;
   text-align: center;
   border-radius: 10px;
-  height: 110px;
+  height: 500px;
   padding-bottom: 10px;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -361,8 +361,8 @@ iframe {
   position: absolute;
   top: 0;
   left: 0;
-  width: 90px;
-  height: 80%;
+  width: 500px;
+  height: 100%;
   opacity: 0;
   background-color: var(--bg-color);
   opacity: 0;
