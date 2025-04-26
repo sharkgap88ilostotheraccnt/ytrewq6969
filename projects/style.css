@@ -49,8 +49,8 @@ iframe {
 }
 
 .actual iframe {
-  height: 40vw;
-  min-height: 40vw;
+  height: 500vw;
+  min-height: 500vw;
   margin: 0;
   padding: 0;
 }
