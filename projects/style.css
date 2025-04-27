@@ -350,7 +350,7 @@ iframe {
   padding-bottom: 10px;
   background-repeat: no-repeat;
   background-size: 500%;
-  transform: scale(5);
+  transform: scale(2);
   overflow: hidden;
   transition: background 0.4s ease, transform 0.4s ease;
 }
