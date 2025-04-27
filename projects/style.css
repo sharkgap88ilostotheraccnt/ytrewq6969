@@ -475,9 +475,7 @@ hr {
   width: 8px;
   background-color: var(--bg-color);
 }
-
-::-webkit-scrollbar-thumb {
-  background-color: var(--text-color);
-  border: 3px solid var(--bg-color);
-  border-radius: 10px;
+iframe {
+  width: 500px !important
+  height: 500px !important
 }
