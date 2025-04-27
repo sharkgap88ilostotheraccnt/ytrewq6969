@@ -1,7 +1,7 @@
 :root {
   --black-color: rgb(0, 0, 0);
   --text-color: white;
-  --bg-color: rgb(50, 50, 50);
+  --bg-color: black;
   --bg-color-2: black;
   --shadow-color: transparent;
   --group-bg-color: rgba(40, 40, 40, 0.7);
