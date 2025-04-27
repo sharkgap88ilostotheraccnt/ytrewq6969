@@ -195,11 +195,11 @@ iframe {
 }
 
 .featured .game {
-  height: 105px;
+  height: 500px;
 }
 
 .featured .game::before {
-  height: 79%;
+  height: 500%;
 }
 
 .nav,
@@ -349,8 +349,8 @@ iframe {
   height: 500px;
   padding-bottom: 10px;
   background-repeat: no-repeat;
-  background-size: 100%;
-  transform: scale(1);
+  background-size: 500%;
+  transform: scale(5);
   overflow: hidden;
   transition: background 0.4s ease, transform 0.4s ease;
 }
@@ -395,8 +395,8 @@ iframe {
 }
 
 .side-game {
-  width: 100px;
-  height: 100px;
+  width: 500px;
+  height: 500px;
 }
 
 h2 {
@@ -453,7 +453,7 @@ hr {
   }
 }
 
-@media (width < 500px) {
+@media (width > 500px) {
   .right img {
     width: 40%;
   }
