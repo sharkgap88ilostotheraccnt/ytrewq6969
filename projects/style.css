@@ -29,10 +29,12 @@ body {
 
 iframe {
   background-color: var(--black-color);
-  width: 500%;
-  border-radius: 500px 500px 500px 500px;
+  width: 600px; /* Reasonable width */
+  height: 400px; /* Reasonable height */
+  border-radius: 10px; /* Optional for rounded corners */
+  margin: auto; /* Centering the iframe */
+  display: block; /* Ensure it's treated as a block element */
 }
-
 .actual {
   width: 500%;
   display: flex;
