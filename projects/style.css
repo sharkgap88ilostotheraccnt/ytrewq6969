@@ -327,8 +327,8 @@ iframe {
 .game-container {
   display: flex;
   justify-content: center; /* Centers horizontally */
-  align-items: center; /* Centers vertically */
-  height: 100vh; /* Optional: Full height of the viewport */
+  align-items: top; /* Centers vertically */
+  height: 50vh; /* Optional: Full height of the viewport */
 }
 
 .game,
