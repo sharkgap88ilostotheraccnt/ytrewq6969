@@ -324,11 +324,11 @@ iframe {
   color: var(--text-color);
 }
 
-.games-container {
+.game-container {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  padding-top: 10px;
+  justify-content: center; /* Centers horizontally */
+  align-items: center; /* Centers vertically */
+  height: 100vh; /* Optional: Full height of the viewport */
 }
 
 .game,
